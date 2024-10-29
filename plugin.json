@@ -1,0 +1,10 @@
+{
+  "name": "IITC plugin: machina-in-poly",
+  "id": "iitc_plugin_machinainpoly",
+  "category": "Misc",
+  "description": "",
+  "author": "Gyeoul",
+  "entry": "src/Main.ts",
+  "minimize": true,
+  "changelog": ""
+}
